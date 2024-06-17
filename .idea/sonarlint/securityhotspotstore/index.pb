@@ -5,3 +5,17 @@ z
 JAPIGateway/src/main/java/com/example/APIGateway/ApiGatewayApplication.java,f\4\f40349d183094831d2872174b941a4577f3136e7
 Ä
 PHotelService/src/main/java/com/example/HotelService/HotelServiceApplication.java,d\a\da4985d513ab0ac63ca2d759f90624c9f012d88c
+â
+YServiceRegistry/src/main/java/com/example/ServiceRegistry/ServiceRegistryApplication.java,7\9\79f15a0533fec4e302699a6dd2948f10bf84bd21
+Ñ
+THotelService/src/main/java/com/example/HotelService/controllers/HotelController.java,c\5\c51e33f0dc79504df91e4346c153660e7a656aa9
+á
+WRatingService/src/main/java/com/example/RatingService/controllers/RatingController.java,4\5\45cfc5ca467607f7e06ecd7193129cf530314044
+Å
+QUserService/src/main/java/com/example/UserService/controllers/UserController.java,e\6\e64dc300c5e331caa829180ef2b7dc70c51d9a48
+B
+APIGateway/pom.xml,a\5\a5351cfadeb5a2ad2699c5375ee2098231341673
+}
+MUserService/src/main/java/com/example/UserService/UserServiceApplication.java,b\0\b079e33b4ce2d572eeb09bc88fdc26902aef7e6f
+É
+SRatingService/src/main/java/com/example/RatingService/RatingServiceApplication.java,8\4\84561aff19bbfca6cf6b9d3b901e55512e81a26b
