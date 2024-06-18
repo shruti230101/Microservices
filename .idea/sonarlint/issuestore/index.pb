@@ -19,3 +19,5 @@ B
 MUserService/src/main/java/com/example/UserService/UserServiceApplication.java,b\0\b079e33b4ce2d572eeb09bc88fdc26902aef7e6f
 ƒ
 SRatingService/src/main/java/com/example/RatingService/RatingServiceApplication.java,8\4\84561aff19bbfca6cf6b9d3b901e55512e81a26b
+D
+HotelService/pom.xml,0\b\0b1b04a7738d5a206252579a5822e48aacf34991
